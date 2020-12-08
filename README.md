@@ -1,6 +1,3 @@
-### Hi! I´m Lucas Rocha (aka: Cascudo).
-<hr>
-
 <p><em>Consultant at <a target="_blank" href="https://www.altran.com/" >Altran </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
