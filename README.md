@@ -71,10 +71,6 @@
 
   <a href="#">
     <img src="https://github.com/lucascudo/ColoredBadges/raw/master/svg/dev/frameworks/react.svg" alt="react" style="vertical-align:top; margin:6px 4px">
-  </a>  
-
-  <a href="#">
-    <img src="https://github.com/lucascudo/ColoredBadges/raw/master/svg/dev/frameworks/vue.svg" alt="vue" style="vertical-align:top; margin:6px 4px">
   </a>
 
 </p>
@@ -164,10 +160,6 @@
   </a> 
 
   <a href="#">
-    <img src="https://github.com/lucascudo/ColoredBadges/raw/master/svg/dev/services/digitalocean.svg" alt="digitalocean" style="vertical-align:top; margin:6px 4px">
-  </a> 
-
-  <a href="#">
     <img src="https://github.com/lucascudo/ColoredBadges/raw/master/svg/dev/services/dockerhub.svg" alt="dockerhub" style="vertical-align:top; margin:6px 4px">
   </a> 
   
@@ -181,11 +173,7 @@
 
   <a href="#">
     <img src="https://github.com/lucascudo/ColoredBadges/raw/master/svg/dev/services/nuget.svg" alt="nuget" style="vertical-align:top; margin:6px 4px">
-  </a> 
-
-  <a href="#">
-    <img src="https://github.com/lucascudo/ColoredBadges/raw/master/svg/dev/services/office_365.svg" alt="office 365" style="vertical-align:top; margin:6px 4px">
-  </a>   
+  </a>  
 </p>
 
 
