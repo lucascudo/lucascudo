@@ -22,7 +22,7 @@
 
 ## Developer Tech
 
-## Blogging Platforms
+### Blogging Platforms
 <p align="left">
  <a href="#">
     <img src="https://github.com/lucascudo/ColoredBadges/raw/master/svg/blogs/blogger.svg" alt="blogger" style="vertical-align:top; margin:6px 4px">
