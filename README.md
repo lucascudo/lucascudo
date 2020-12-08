@@ -1,5 +1,4 @@
-<p><em>Consultant at <a target="_blank" href="https://www.altran.com/" >Altran </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-</em></p>
+p><em>Hello! I am Lucas Rocha. A Father, Web Developer and Tech Enthusiast.</em></p>
 
 <a href="https://www.linkedin.com/in/lucasRedeAberta/">
   <img align="left" alt="Lucas's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
