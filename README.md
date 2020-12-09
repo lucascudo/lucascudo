@@ -1,4 +1,4 @@
-<p><em>Hello! I am Lucas Rocha. A Father, Web Developer and Tech Enthusiast.</em></p>
+## Contact
 
 <a href="https://www.linkedin.com/in/lucasRedeAberta/">
   <img align="left" alt="Lucas's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -13,6 +13,8 @@
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=lucascudo.lucascudo)
+
+## GitHub Stats
 
 <br/>[![Anurag's github stats](https://lucascudo-github-readme-stats.vercel.app/api?username=lucascudo&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
