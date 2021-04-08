@@ -14,10 +14,10 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=lucascudo.lucascudo)
 
+<!--
 ## GitHub Stats
-
 <br/>[![Anurag's github stats](https://lucascudo-github-readme-stats.vercel.app/api?username=lucascudo&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)  [![Top Langs](https://lucascudo-github-readme-stats.vercel.app/api/top-langs/?username=lucascudo&layout=compact&theme=tokyonight&hide=css,html,Dockerfile&langs_count=70)](https://github.com/anuraghazra/github-readme-stats)
- 
+-->
 ---
 
 ## Developer Tech
