@@ -12,7 +12,7 @@
   <img align="left" alt="Lucas's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
-![](https://visitor-badge.glitch.me/badge?page_id=lucascudo.lucascudo)
+## Statuses
 
 <div align="center">
   <a href="https://github.com/lucascudo">
@@ -20,7 +20,9 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucascudo&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <p align="center">
-    <a href="https://github.com/lucascudo" target="_blank"><img alt="lucascudo" src="https://badges.pufler.dev/visits/lucascudo/lucascudo?  logo=GitHub&label=Visits&color=success&logoColor=white&style=flat-square"/></a>
+    <a href="https://github.com/lucascudo" target="_blank">
+      ![](https://visitor-badge.glitch.me/badge?page_id=lucascudo.lucascudo)
+    </a>
 </p>
 
 <!--
