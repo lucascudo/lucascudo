@@ -12,6 +12,7 @@
   <img align="left" alt="Lucas's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
+![](https://visitor-badge.glitch.me/badge?page_id=lucascudo.lucascudo)
 
 ## Statuses
 
@@ -20,17 +21,10 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucascudo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucascudo&layout=compact&langs_count=7&theme=dracula"/>
 </p>
-<p>
-    <a href="https://github.com/lucascudo" target="_blank">
-      ![](https://visitor-badge.glitch.me/badge?page_id=lucascudo.lucascudo)
-    </a>
-</p>
 
-<!--
+
 ## GitHub Stats
 <br/>[![Anurag's github stats](https://lucascudo-github-readme-stats.vercel.app/api?username=lucascudo&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)  [![Top Langs](https://lucascudo-github-readme-stats.vercel.app/api/top-langs/?username=lucascudo&layout=compact&theme=tokyonight&hide=css,html,Dockerfile&langs_count=70)](https://github.com/anuraghazra/github-readme-stats)
--->
----
 
 ## Developer Tech
 
