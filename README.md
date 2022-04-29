@@ -22,7 +22,7 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucascudo&layout=compact&langs_count=7&theme=dracula"/>
 </p>
 
-## Developer Tech
+## Techs
 
 ### Blogging Platforms
 <p align="left">
